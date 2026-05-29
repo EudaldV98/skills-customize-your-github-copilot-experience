@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "json-file-processing",
+      "title": "JSON File Processing",
+      "description": "Read, process, and save JSON data using Python file I/O.",
+      "path": "assignments/json-file-processing",
+      "dueDate": "2026-06-12",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Data",
+          "file": "data.json",
+          "type": "json"
+        }
+      ]
     }
   ]
 }
