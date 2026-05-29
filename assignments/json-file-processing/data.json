@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Alex",
+    "age": 22,
+    "city": "Seattle",
+    "skills": ["Python", "data analysis"]
+  },
+  {
+    "name": "Maya",
+    "age": 30,
+    "city": "Austin",
+    "skills": ["APIs", "automation"]
+  }
+]
